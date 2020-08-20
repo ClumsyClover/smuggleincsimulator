@@ -1,0 +1,15 @@
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\bin\Debug\Smuggle INC.exe.config
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\bin\Debug\Smuggle INC.exe
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\bin\Debug\Smuggle INC.pdb
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.csprojAssemblyReference.cache
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle_INC.Properties.Resources.resources
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.csproj.GenerateResource.cache
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.csproj.CoreCompileInputs.cache
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.exe
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.pdb
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle_INC.Main.resources
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle_INC.home.resources
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\bin\Debug\Smuggle INC.exe.manifest
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\bin\Debug\Smuggle INC.application
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.exe.manifest
+C:\Users\Atharv Naphade\source\repos\Smuggle INC\Smuggle INC\obj\Debug\Smuggle INC.application
